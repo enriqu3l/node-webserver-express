@@ -1,6 +1,6 @@
 
 
-## WebServer realizado en NodeJs
+## WebServer realizado en NodeJs usando Express
 
 
 Para iniciar el proyecto corra este comando
